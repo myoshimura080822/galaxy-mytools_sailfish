@@ -1,0 +1,245 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg style="stroke:black; fill:none; stroke-width:1px; stroke-linejoin:round; text-anchor:left" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, FreeSans, Sans, sans, sans-serif" height="927.944465637px" width="1182.43752289px" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1182.43752289 927.944465637">
+
+<g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="true" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#true)" d="M309.097 322.194L418.028 260.868" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="true" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#true)" d="M308.09 427.194L418.028 276.868" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="true" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#true)" d="M307.083 226.188L418.028 244.868" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="true" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#true)" d="M681.028 318.868L863.028 246.865" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="true" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#true)" d="M681.028 334.868L867.021 468.861" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="true" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#true)" d="M681.028 318.868L869.438 672.944" />
+
+</g>
+
+<g>
+
+<defs>
+
+<marker refY="3.6" refX="1.5" markerUnits="strokeWidth" viewBox="0 0 10.5 7.2" stroke="none" id="true" markerWidth="10.5" fill="black" orient="auto" markerHeight="7.2">
+
+<path d="M 1.5 3.6 L 0 0 L 10.5 3.6 L 0 7.2 L 1.5 3.6 Z" />
+
+</marker>
+
+</defs>
+
+<path marker-end="url(#true)" d="M681.028 334.868L869.438 688.944" />
+
+</g>
+
+</g>
+
+<g>
+
+<path d="M194.833 186.188L302.083 186.188L302.083 216.188L194.833 216.188Z" fill="#EBD9B2" />
+
+<path d="M194.833 216.188L302.083 216.188L302.083 237.188L194.833 237.188Z" fill="#ffffff" />
+
+<path d="M196.847 282.194L304.097 282.194L304.097 312.194L196.847 312.194Z" fill="#EBD9B2" />
+
+<path d="M196.847 312.194L304.097 312.194L304.097 333.194L196.847 333.194Z" fill="#ffffff" />
+
+<path d="M195.84 387.194L303.09 387.194L303.09 417.194L195.84 417.194Z" fill="#EBD9B2" />
+
+<path d="M195.84 417.194L303.09 417.194L303.09 438.194L195.84 438.194Z" fill="#ffffff" />
+
+<path d="M423.028 199.868L676.028 199.868L676.028 229.868L423.028 229.868Z" fill="#EBD9B2" />
+
+<path d="M423.028 229.868L676.028 229.868L676.028 345.868L423.028 345.868Z" fill="#ffffff" />
+
+<path d="M868.028 201.865L1093.53 201.865L1093.53 231.865L868.028 231.865Z" fill="#EBD9B2" />
+
+<path d="M868.028 231.865L1093.53 231.865L1093.53 331.865L868.028 331.865Z" fill="#ffffff" />
+
+<path d="M872.021 423.861L1097.52 423.861L1097.52 453.861L872.021 453.861Z" fill="#EBD9B2" />
+
+<path d="M872.021 453.861L1097.52 453.861L1097.52 553.861L872.021 553.861Z" fill="#ffffff" />
+
+<path d="M874.438 627.944L998.188 627.944L998.188 657.944L874.438 657.944Z" fill="#EBD9B2" />
+
+<path d="M874.438 657.944L998.188 657.944L998.188 773.944L874.438 773.944Z" fill="#ffffff" />
+
+</g>
+
+<g>
+
+<text y="206.187508106" x="199.833343983" stroke="none" font-size="14px" fill="black">Input dataset</text>
+
+<text y="231.187508106" x="199.833343983" stroke="none" font-size="10px" fill="black">output</text>
+
+<text y="302.194450855" x="201.847229481" stroke="none" font-size="14px" fill="black">Input dataset</text>
+
+<text y="327.194450855" x="201.847229481" stroke="none" font-size="10px" fill="black">output</text>
+
+<text y="407.194466114" x="200.840286732" stroke="none" font-size="14px" fill="black">Input dataset</text>
+
+<text y="432.194466114" x="200.840286732" stroke="none" font-size="10px" fill="black">output</text>
+
+<text y="219.868065357" x="428.027794361" stroke="none" font-size="14px" fill="black">FastqMcf</text>
+
+<text y="244.868065357" x="428.027794361" stroke="none" font-size="10px" fill="black">A fasta formatted adapter list</text>
+
+<text y="260.868065357" x="428.027794361" stroke="none" font-size="10px" fill="black">Reads: single or Left-hand of Paired End Reads</text>
+
+<text y="276.868065357" x="428.027794361" stroke="none" font-size="10px" fill="black">Right-hand mates for Paired End Reads</text>
+
+<text y="307.868065357" x="428.027794361" stroke="none" font-size="10px" fill="black">log</text>
+
+<text y="323.868065357" x="428.027794361" stroke="none" font-size="10px" fill="black">reads_out</text>
+
+<text y="339.868065357" x="428.027794361" stroke="none" font-size="10px" fill="black">mates_out</text>
+
+<text y="221.864586353" x="873.027794361" stroke="none" font-size="14px" fill="black">FastQC:Read QC</text>
+
+<text y="246.864586353" x="873.027794361" stroke="none" font-size="10px" fill="black">Short read data from your current history</text>
+
+<text y="262.864586353" x="873.027794361" stroke="none" font-size="10px" fill="black">Contaminant list</text>
+
+<text y="278.864586353" x="873.027794361" stroke="none" font-size="10px" fill="black">Submodule and Limit specifing file</text>
+
+<text y="309.864586353" x="873.027794361" stroke="none" font-size="10px" fill="black">html_file</text>
+
+<text y="325.864586353" x="873.027794361" stroke="none" font-size="10px" fill="black">text_file</text>
+
+<text y="443.861122608" x="877.020897388" stroke="none" font-size="14px" fill="black">FastQC:Read QC</text>
+
+<text y="468.861122608" x="877.020897388" stroke="none" font-size="10px" fill="black">Short read data from your current history</text>
+
+<text y="484.861122608" x="877.020897388" stroke="none" font-size="10px" fill="black">Contaminant list</text>
+
+<text y="500.861122608" x="877.020897388" stroke="none" font-size="10px" fill="black">Submodule and Limit specifing file</text>
+
+<text y="531.861122608" x="877.020897388" stroke="none" font-size="10px" fill="black">html_file</text>
+
+<text y="547.861122608" x="877.020897388" stroke="none" font-size="10px" fill="black">text_file</text>
+
+<text y="647.944465637" x="879.437522888" stroke="none" font-size="14px" fill="black">Sailfish_custom</text>
+
+<text y="672.944465637" x="879.437522888" stroke="none" font-size="10px" fill="black">Mate pair 1</text>
+
+<text y="688.944465637" x="879.437522888" stroke="none" font-size="10px" fill="black">Mate pair 2</text>
+
+<text y="719.944465637" x="879.437522888" stroke="none" font-size="10px" fill="black">log</text>
+
+<text y="735.944465637" x="879.437522888" stroke="none" font-size="10px" fill="black">quant</text>
+
+<text y="751.944465637" x="879.437522888" stroke="none" font-size="10px" fill="black">quant_bias_corrected</text>
+
+<text y="767.944465637" x="879.437522888" stroke="none" font-size="10px" fill="black">reads_count_info</text>
+
+<path d="M423.028 287.868L676.028 287.868" />
+
+<circle cy="322.194450855" cx="304.097229481" r="5" fill="#ffffff" />
+
+<circle cy="427.194466114" cx="303.090286732" r="5" fill="#ffffff" />
+
+<circle cy="226.187508106" cx="302.083343983" r="5" fill="#ffffff" />
+
+<path d="M868.028 289.865L1093.53 289.865" />
+
+<circle cy="318.868065357" cx="676.027794361" r="5" fill="#ffffff" />
+
+<path d="M872.021 511.861L1097.52 511.861" />
+
+<circle cy="334.868065357" cx="676.027794361" r="5" fill="#ffffff" />
+
+<path d="M874.438 699.944L998.188 699.944" />
+
+<circle cy="318.868065357" cx="676.027794361" r="5" fill="#ffffff" />
+
+<circle cy="334.868065357" cx="676.027794361" r="5" fill="#ffffff" />
+
+</g>
+
+</svg>
+
