@@ -1,2 +1,2 @@
 # galaxy-mytools_sailfish
-custum sailfish for riken-BiT Galaxy
+custom sailfish for riken-BiT Galaxy
